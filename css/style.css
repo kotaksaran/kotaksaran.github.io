@@ -1,0 +1,11 @@
+html {
+	position: relative;
+}
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #dc3545;
+}
+
+section {
+	padding-top: 5rem;
+}
